@@ -1,43 +1,40 @@
-# jogoMario
+# Mario Jump 🍄
 
-# Jogo do Mário
+**Mario Jump** é uma recriação simples e nostálgica, no estilo *runner* infinito, inspirada no clássico universo de **Super Mario**. O objetivo do jogo é fazer o Mario pular sobre o cano que se move em sua direção, utilizando apenas um botão (ou tecla) para saltar. O jogo termina quando o Mario colide com o cano.
 
-Este é um jogo simples do Mário, estilo *endless runner*, desenvolvido com HTML, CSS e JavaScript. O objetivo é fazer o Mário pular sobre os canos que aparecem na tela, evitando colisões para continuar jogando.
+---
 
-## Como Jogar
+## 🎮 Como Jogar
 
-1. Abra o arquivo `index.html` em seu navegador.
-2. Pressione qualquer tecla (ou a barra de espaço, se implementado) para fazer o Mário pular.
-3. Evite que o Mário colida com os canos. Se houver colisão, o jogo termina.
+O jogo é extremamente simples, exigindo apenas um comando:
 
-## Tecnologias Utilizadas
+1.  **Inicie o jogo** (carregue o arquivo `index.html` em seu navegador).
+2.  Quando o cano (Pipe) se aproximar, pressione qualquer tecla do teclado para fazer o **Mario pular**.
+3.  O seu objetivo é cronometrar o salto para que o Mario caia do outro lado do cano.
+4.  O jogo é reiniciado ao recarregar a página (F5).
 
-*   **HTML5**: Estrutura básica do jogo.
-*   **CSS3**: Estilização e animações dos elementos do jogo (Mário, canos, nuvens, fundo).
-*   **JavaScript**: Lógica do jogo, detecção de colisão e controle de pulo do Mário.
+---
 
-## Estrutura do Projeto
+## 💻 Linguagens Utilizadas
 
-```
-. 
-├── index.html
-├── style.css
-├── script.js
-├── imagem/
-│   ├── clouds.png
-│   ├── game-over.png
-│   ├── mario.gif
-│   └── pipe.png
-└── README.md
-└── TODO.md
-```
+Este projeto foi construído utilizando as três linguagens fundamentais do desenvolvimento web:
 
-*   `index.html`: Contém a estrutura HTML do jogo.
-*   `style.css`: Define os estilos e animações dos elementos visuais.
-*   `script.js`: Implementa a lógica do jogo, como o pulo do Mário e a detecção de colisão.
-*   `imagem/`: Pasta contendo os recursos visuais do jogo (nuvens, imagem de game over, GIF do Mário, imagem do cano).
+* **HTML5** (Estrutura da página)
+* **CSS3** (Estilização, *layout* e as animações do cano, nuvens e pulo)
+* **JavaScript** (Lógica do jogo, como o salto, o *loop* de colisão e o fim de jogo)
 
-## Créditos
+---
 
-Desenvolvido por **Manus AI** com base nos arquivos fornecidos pelo usuário.
+## 👤 Autor
+
+**FulanoDeTown**
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a **Licença MIT**.
+
+🔗 **Link da Licença:** [INSERIR LINK DA LICENÇA MIT AQUI]
+
 
