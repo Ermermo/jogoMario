@@ -1,10 +1,10 @@
-# Mario Jump 🍄
+# Mario Jump
 
 **Mario Jump** é uma recriação simples e nostálgica, no estilo *runner* infinito, inspirada no clássico universo de **Super Mario**. O objetivo do jogo é fazer o Mario pular sobre o cano que se move em sua direção, utilizando apenas um botão (ou tecla) para saltar. O jogo termina quando o Mario colide com o cano.
 
 ---
 
-## 🎮 Como Jogar
+## Como Jogar
 
 O jogo é extremamente simples, exigindo apenas um comando:
 
@@ -15,7 +15,7 @@ O jogo é extremamente simples, exigindo apenas um comando:
 
 ---
 
-## 💻 Linguagens Utilizadas
+## Linguagens Utilizadas
 
 Este projeto foi construído utilizando as três linguagens fundamentais do desenvolvimento web:
 
@@ -25,16 +25,14 @@ Este projeto foi construído utilizando as três linguagens fundamentais do dese
 
 ---
 
-## 👤 Autor
+## Autor
 
-**FulanoDeTown**
+**Emanuel Roberto**
 
 ---
 
-## 📜 Licença
+## Licença
 
-Este projeto está licenciado sob a **Licença MIT**.
-
-🔗 **Link da Licença:** [INSERIR LINK DA LICENÇA MIT AQUI]
+Este projeto está licenciado sob a [MIT](./LICENSE).
 
 
